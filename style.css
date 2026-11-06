@@ -1,0 +1,18 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+/* Loads the font Press Start 2P */
+@font-face {
+  font-family: "Press Start 2P";
+  src: url("/assets/font/PressStart2P-Regular.ttf") format("truetype");
+}
+
+ul {
+  list-style-type: disc;
+}
